@@ -319,6 +319,6 @@ InfileStatus Close ();
 
 } /* IInfile */
 
-} /* M2SF.M2Sharp */
+} /* org.m2sf.m2sharp */
 
 /* END OF FILE */

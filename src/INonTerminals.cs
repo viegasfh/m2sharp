@@ -43,7 +43,7 @@
  * NB: Components in the domain part of email addresses are in reverse order.
  */
 
-namespace M2SF.M2Sharp {
+namespace org.m2sf.m2sharp {
 
 /* --------------------------------------------------------------------------
  * type Production
@@ -201,6 +201,6 @@ public string NameForProduction (Production p);
 
 } /* INonTerminals */
 
-} /* M2SF.M2Sharp */
+} /* org.m2sf.m2sharp */
 
 /* END OF FILE */

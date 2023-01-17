@@ -43,7 +43,7 @@
  * NB: Components in the domain part of email addresses are in reverse order.
  */
 
-namespace M2SF.M2Sharp {
+namespace org.m2sf.m2sharp {
 
 public interface ITokenSet {
 
@@ -154,6 +154,6 @@ public void PrintLiteral ();
 
 } /* ITokenSet */
 
-} /* M2SF.M2Sharp */
+} /* org.m2sf.m2sharp */
 
 /* END OF FILE */
